@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- Link de referencia:
+- https://codesinsider.com/flutter-appbar-example-tutorial/?expand_article=1
+
+- Resultado final:
+- ![image](https://github.com/Hernandezc128/u2_Act1_0371/assets/143743758/b73e7298-d64d-48c2-bfab-fa550d6ab826)
+
